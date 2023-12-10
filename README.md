@@ -10,4 +10,4 @@ Chat application using socket.io, express.js and moment. Created a basic ChatApp
 
 ### Deployment : [HERE](https://guarded-coast-34948.herokuapp.com/)
 
-### Author : Ansh Chaturmohta
+### Author : Nikhil Krishna
